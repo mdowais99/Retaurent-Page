@@ -1,0 +1,172 @@
+
+.first-container{
+    width: 100%;
+    height: 730px;
+    background-color: black;
+    background-image: url(./images/d1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.naVi-cust{
+    background-color: rgba(0, 0, 0, 50%);
+}
+
+.butn-custom{
+    border-radius: 0%;
+    background-color: #d1ad6a;
+    color: white;
+}
+.butn-custom:hover{
+    background: transparent;
+    border:solid #d1ad6a;
+    color: white;
+}
+
+.mCol{
+    color: #d1ad6a;
+}
+.mCol:hover{
+    color: #d1ad6a;
+}
+
+.pEra{
+    color: #d1ad6a;
+    font-style: italic;
+    font-size: 1.4em;
+}
+.h-pEra{
+    color: white;
+    font-size: 5em;
+}
+
+.custom-fleX{
+    margin-top: 10%;
+    margin-left: 5%;
+}
+
+.menU-boxex{
+    color: white;
+    background-color: #2f3034;
+    padding: 2%;
+    margin: 0 auto;
+    
+}
+
+.sec-container{
+    background-color: #121619;
+    height: 300px;
+    position: relative;
+
+}
+
+.my-post{
+    position: absolute;
+    top: -20%;
+}
+
+.four-menu{
+    background-color: #121619;
+}
+
+.h-pErar{
+    color: white;
+    font-size: 4em;
+}
+
+.third-containeR{
+    background-color: black;
+    
+    
+}
+
+
+.fourth-cont{
+    background-color:#121619;
+
+}
+
+/* .nod-head{
+    color: white;
+    
+} */
+.nod-per{
+    color: #d1ad6a;
+    background-color: #2f3034;
+    border-radius: 50%;
+    padding: 4%;
+}
+
+.perer-edit{
+    font-size: 0.9em;
+}
+
+.nod-perer{
+    color: #d1ad6a;
+    padding: 3%;
+}
+.line-edit{
+    border: 2px dashed #2f3034;
+}
+.line-edit2{
+    border: 1.5px solid #2f3034;
+}
+
+
+.fifith-conT{
+    background-image: url(./images/new-cover.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 600px;
+    background-position: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.i-ediT:hover{
+    width: 105%;
+}
+
+.sixth-cont{
+    background-color: #2f3034;
+}
+
+.boX-cole{
+    background-color: #121619;
+}
+.box-col2{
+    background-color: #d1ad6a;
+    color: white;
+}
+
+.num-txt{
+    color: #d1ad6a;
+}
+
+.anchoR-e{
+    color: white;
+    text-decoration: none;
+}
+.anchoR-e:hover{
+    color: white;
+}
+
+.extra-ediTT{
+    font-size: 0.9em !important;
+    font-style: normal !important;
+}
+
+.in-last-line{
+    color: #d1ad6a;
+    text-decoration: none;
+}
+.in-last-line:hover{
+    color: #d1ad6a;
+    
+}
+.last-linE{
+    background-color: black;
+}
